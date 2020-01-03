@@ -1,6 +1,6 @@
 # Project Title
 
-#### -- Project Status: [Planning / In pgrogess / Completed]
+#### Project Status: [Planning / In pgrogess / Completed]
 
 ## Project Description
 
